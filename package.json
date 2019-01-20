@@ -1,6 +1,6 @@
 {
   "name": "libnode.a",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Node.js shared library build",
   "main": "index.js",
   "scripts": {
